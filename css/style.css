@@ -123,3 +123,19 @@ section{
 .contact{
     padding-top: 13%;
 }
+
+/*  */
+.craft{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    text-align: center;
+}
