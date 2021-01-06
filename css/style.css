@@ -103,7 +103,7 @@ section{
     padding-top: 100px;
 }
 .chat{
-    background-image: url(/images/group.png);
+    background-image: url("../images/group.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
